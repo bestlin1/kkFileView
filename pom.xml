@@ -26,7 +26,7 @@
         <jai-imageio.version>1.4.0</jai-imageio.version>
         <jbig2-imageio.version>3.0.4</jbig2-imageio.version>
         <galimatias.version>0.2.1</galimatias.version>
-        <bytedeco.version>1.5.2</bytedeco.version>
+        <bytedeco.version>1.5.9</bytedeco.version>
         <opencv.version>4.1.2-1.5.2</opencv.version>
         <openblas.version>0.3.6-1.5.1</openblas.version>
         <ffmpeg.version>4.2.1-1.5.2</ffmpeg.version>
